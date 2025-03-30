@@ -1,15 +1,3 @@
-{
-  "name": "prisma-agent",
-  "version": "1.0.0",
-  "description": "Super Agent IA déployé sur Railway",
-  "main": "super_agent_dual_validation.js",
-  "scripts": {
-    "start": "node super_agent_dual_validation.js"
-  },
-  "dependencies": {
-    "dotenv": "^16.0.3",
-    "express": "^4.18.2",
-    "openai": "^4.0.0",
-    "node-cron": "^3.0.2"
-  }
+"scripts": {
+  "start": "node super_agent_dual_validation.js"
 }
